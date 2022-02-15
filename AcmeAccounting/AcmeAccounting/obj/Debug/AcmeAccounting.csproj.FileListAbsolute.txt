@@ -1,0 +1,6 @@
+C:\Users\micah\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\micah\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\micah\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\micah\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\micah\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb
