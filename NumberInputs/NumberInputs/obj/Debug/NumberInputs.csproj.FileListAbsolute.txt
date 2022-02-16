@@ -1,0 +1,7 @@
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\bin\Debug\NumberInputs.exe.config
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\bin\Debug\NumberInputs.exe
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\bin\Debug\NumberInputs.pdb
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\obj\Debug\NumberInputs.csproj.AssemblyReference.cache
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\obj\Debug\NumberInputs.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\obj\Debug\NumberInputs.exe
+C:\Users\micah\source\repos\NumberInputs\NumberInputs\obj\Debug\NumberInputs.pdb
