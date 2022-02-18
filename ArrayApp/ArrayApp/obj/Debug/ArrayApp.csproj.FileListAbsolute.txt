@@ -1,0 +1,7 @@
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.AssemblyReference.cache
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\micah\source\repos\ArrayApp\ArrayApp\obj\Debug\ArrayApp.pdb
