@@ -1,0 +1,7 @@
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\bin\Debug\ArrayStringAssignment.exe.config
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\bin\Debug\ArrayStringAssignment.exe
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\bin\Debug\ArrayStringAssignment.pdb
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.csproj.AssemblyReference.cache
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.exe
+C:\Users\micah\source\repos\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{297398A5-DA1A-4F85-B544-BD09EBA8FF96}</ProjectGuid>
+    <ProjectGuid>{F012258E-7292-4503-89B1-370360F92AD5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StringAssignment</RootNamespace>
-    <AssemblyName>StringAssignment</AssemblyName>
+    <RootNamespace>ArrayStringAssignment</RootNamespace>
+    <AssemblyName>ArrayStringAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
