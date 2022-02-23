@@ -13,9 +13,11 @@ namespace MainMethodSubmission
             return a/b; //returned to the main program
         }
 
-        public decimal Divide(decimal c, decimal d)//format is decimal
+        public int  Divide(decimal c, decimal d)//format is decimal
         {
-            return c * d; //returned to the main program
+            int x = Convert.ToInt32(c);
+            int y = Convert.ToInt32(d);
+            return x * y; //returned to the main program
         }
 
         public int Divide(string e, string f) //format is strings
