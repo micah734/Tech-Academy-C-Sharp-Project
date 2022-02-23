@@ -72,22 +72,47 @@ namespace ArrayStringAssignment
             List<string> boysNames = new List<string> { "Maverick", "Mason", "Tom", "Jacob", "Micah", "Harry", "Micah"};
             Console.WriteLine("Search the list of boys names");
             string boysearch = Console.ReadLine();
-            int boyIndex = boysNames.FindIndex(a => a.Contains(boysearch));
+            
 
             for (int i=0; i<boysNames.Count(); i++)
             {
-                if (boyIndex > -1)
+                if (!boysNames.Contains(boysearch))
                 {
-                    Console.WriteLine("The index for the name is: " + boyIndex);
+                    Console.WriteLine("Not Included");
                     break;
+
+                }
+                else if (boysearch==boysNames[i])
+                {
+                    Console.WriteLine("The index for the name is: " + i);
+
+                                                                         
                 }
 
-                else
-                {
-                    Console.WriteLine("There is not a name in this list that matches.");
-                    break;
-                }
+                
+                             
             }
+
+            List<string> guests = new List<string> { "Fred", "Fred", "Margo", "George", "Micah","Micah" };
+            List<string> compare = new List<string>();
+            Console.WriteLine("This is the duplicates on the list");
+
+            foreach(string guest in guests)
+            {
+              
+
+
+                if (compare.Contains(guest))
+                {
+                    Console.WriteLine("This has already appeared on the list." + guest);
+
+                }
+
+                compare.Add(guest);
+            }
+
+                
+
 
             Console.ReadLine();
 
