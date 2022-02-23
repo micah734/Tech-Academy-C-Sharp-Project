@@ -17,9 +17,12 @@ namespace ArrayStringAssignment
             for(int i=0;i<=5; i++) //If I tried to put i<=names.Length I got an error, so this is the only way it would run.
             {
                names[i]+=userInput;
-               Console.WriteLine(names[i]);
             }
-
+            for(int i=0;i<=5; i++)
+            {
+                Console.WriteLine(names[i]);
+            }
+          
             //foreach (string s in userInput)
             //{
          
