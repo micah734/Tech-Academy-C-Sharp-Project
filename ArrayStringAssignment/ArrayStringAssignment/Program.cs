@@ -9,16 +9,22 @@ namespace ArrayStringAssignment
         static void Main(string[] args)
         {
             string[] names = { "Fred", "Wilma", "Johnny", "Frank", "Willamina", "Joe" };
+            Console.WriteLine(names.Length);
 
             Console.WriteLine("Please type a adjective to describe a person, place or thing.");
             string userInput = Console.ReadLine();
 
-
-            foreach (string s in names)
+            for(int i=0;i<=5; i++) //If I tried to put i<=names.Length I got an error, so this is the only way it would run.
             {
-                string b = s + " "+ userInput;
-                Console.WriteLine(b);
+               names[i]+=userInput;
+               Console.WriteLine(names[i]);
             }
+
+            //foreach (string s in userInput)
+            //{
+         
+            //    Console.WriteLine(s);
+            //}
 
             //fixed infinite loop
             for(int i=0; i<12; i++ )
@@ -36,14 +42,19 @@ namespace ArrayStringAssignment
             Console.WriteLine("Pick a number"); //Comparison Loop
             int j=Convert.ToInt32(Console.ReadLine());
 
-            if (j <= 12)
+            for(int i=0; i<=j;i++)
             {
-                Console.WriteLine("This is less than 12");
+                Console.WriteLine("Another loop");
             }
-            else
-            {
-                Console.WriteLine("This is more than 12");
-            }
+
+            //if (j <= 12)
+            //{
+            //    Console.WriteLine("This is less than 12");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("This is more than 12");
+            //}
 
 
             List<string> girlsNames= new List<string> { "Wilma", "Freda", "Holly", "Lilly", "Megan", "Liz" }; //List of names
