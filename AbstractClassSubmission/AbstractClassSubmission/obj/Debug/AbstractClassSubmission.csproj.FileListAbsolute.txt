@@ -1,0 +1,7 @@
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe.config
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.pdb
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.AssemblyReference.cache
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.exe
+C:\Users\micah\source\repos\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.pdb
