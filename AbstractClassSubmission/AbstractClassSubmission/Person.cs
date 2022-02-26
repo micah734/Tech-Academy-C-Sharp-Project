@@ -14,5 +14,6 @@ namespace AbstractClassSubmission
 
         public abstract void SayName(); //setting that this method must be included
         
+        
     }
 }
