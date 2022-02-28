@@ -15,6 +15,9 @@ namespace ParsingEnumsAssignment
             {
                string userInput = Console.ReadLine();
                DaysOfTheWeek.Parse(typeof(DaysOfTheWeek),userInput);
+                DaysOfTheWeek dayoftheweek = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput);
+               Console.WriteLine(dayoftheweek);
+
             }
             catch
             {
