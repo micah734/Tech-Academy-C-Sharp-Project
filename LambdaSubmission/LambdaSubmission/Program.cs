@@ -42,6 +42,9 @@ namespace LambdaSubmission
             Console.WriteLine(emp);
 
 
+
+            List<Employees> joe = employees.FindAll(j => (j.firstName == "Joe"));
+            Console.WriteLine(joe);
             Console.WriteLine();
            Console.ReadLine();
 
