@@ -28,10 +28,9 @@ namespace AbstractClassSubmission
             quittable.Quit();
 
             Console.WriteLine("Is employee equal to employee 1:" + (employee == employee1));
-            
-            
-            
 
+            Employee < string >= new Employee<string>;
+          
             Console.ReadLine();
         }
     }

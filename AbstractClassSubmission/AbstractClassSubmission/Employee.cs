@@ -9,6 +9,8 @@ namespace AbstractClassSubmission
     public class Employee:Person,IQuittable //inheriting from Person class
     {
         public int Id { get; set; }
+       
+
         public override void SayName() //defining and setting up the abstract method
         {
             Console.WriteLine(firstName + " " + lastName);
