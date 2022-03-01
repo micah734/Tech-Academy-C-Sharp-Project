@@ -27,18 +27,22 @@ namespace LambdaSubmission
                 new Employees { Id= 928, firstName="Lillian", lastName="George" },
             });
 
-            List<string> search = new List<string>();
+            
+            List<Employees> search = new List<Employees>();
             foreach (Employees employee in employees)
             {
                 if (employee.firstName=="Joe")
                 {
                     
-                    search.Add(employee.Id + employee.firstName + employee.lastName);
-                    Console.WriteLine(search[0]);
+                    search.Add(employee);
                 }
             }
 
-           Console.WriteLine();
+            List<Employees> emp = employees.FindAll(e => (e.Id > 5));
+            Console.WriteLine(emp);
+
+
+            Console.WriteLine();
            Console.ReadLine();
 
 
