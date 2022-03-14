@@ -59,11 +59,11 @@ namespace CarInsurance.Controllers
                 bool dui = insuree.DUI;
                 bool fullCoverage = insuree.CoverageType;
 
-                if (age < 18)
+                if (age <= 18)
                 {
                     startingBase += 100.0m;
                 }
-                else if (age>19 && age < 26)
+                else if (age>=19 && age < 26)
                 {
                    startingBase += 50.0m;
                 }
@@ -76,7 +76,7 @@ namespace CarInsurance.Controllers
 
                 
                 if (carMake == "Porsche") { startingBase += 25.0m; };
-                if(carMake=="Porsche" && carModel=="911 Carrera") { startingBase += 50.0m; };
+                if(carMake=="Porsche" && carModel=="911 Carrera") { startingBase += 25.0m; };
 
                                 
                 startingBase += speedingTickets * 10.0m;
